@@ -31,17 +31,17 @@
  */
 
 define('DISQUS_PUBKEY', 'E8Uh5l5fHZ6gD8U3KycjAIAk46f68Zw7C6eW8WSjZvCLXebZ7p0r1yrYDrLilk2F');
-define('PUBLIC_KEY', '');
-define('SECRET_KEY', '');
-define('DISQUS_USERNAME', '');
-define('DISQUS_EMAIL', '');
-define('DISQUS_PASSWORD', '');
-define('DISQUS_WEBSITE', '');
-define('DISQUS_SHORTNAME', '');
+define('PUBLIC_KEY', 'uimkgedPAuKWzAQxDVoICafMD1DK2Q5wrkwDqjITwJiafUWVnu0QOwZfeT38rPRu');
+define('SECRET_KEY', 'yDVpCxWY6pcQzN6kru1wgRMoBMaUiD002JHbejVP9XyO3gnMKPOh4zXTziHXnXN9');
+define('DISQUS_USERNAME', 'disqus_D6fbjCPWAB');
+define('DISQUS_EMAIL', 'xuhui5018@gmail.com');
+define('DISQUS_PASSWORD', 'Dixuhui2014');
+define('DISQUS_WEBSITE', 'https://tomfield.top');
+define('DISQUS_SHORTNAME', 'www-tomfield-top');
 define('DISQUS_APPROVED', true);
 define('DISQUS_BLACKLIST', false);
 define('MOD_IDENT', 1);
-define('USE_TEMP', false);
+define('USE_TEMP', true);
 
 /*
  * 网络设置

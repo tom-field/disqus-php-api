@@ -1,3 +1,7 @@
+如果程序主目录是api.tomfield.top
+api文件夹上传到程序目录的api文件夹
+dist文件夹映射到WWW目录
+
 Disqus PHP API
 ===========
 利用 PHP cURL 转发 Disqus API 请求
